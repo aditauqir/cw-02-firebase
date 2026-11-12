@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Node / Functions
+node_modules/
+functions/node_modules/
